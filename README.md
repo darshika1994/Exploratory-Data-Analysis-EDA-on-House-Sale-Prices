@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) on House Sale Prices
+# Exploratory Data Analysis (EDA) of House Sale Prices
 
 ## Introduction
 This project involves exploratory data analysis (EDA) on a housing dataset to understand the factors affecting house sale prices. The analysis provides insights into the relationships between various features and the target variable, SalePrice.
